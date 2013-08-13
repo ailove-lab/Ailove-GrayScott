@@ -1,12 +1,4 @@
-======================
-JavaScript Experiments
-======================
-
-Some JavaScript experiments. You can see them online using the links below.
-`Google Chrome <https://www.google.com/chrome>`_ is the best browser
-for these demos, but `Opera <http://www.opera.com>`_ or
-Firefox should be fine too.
-
+==========================================================
 `Gray-Scott <http://pmneila.github.com/jsexp/grayscott/>`_
 ==========================================================
 
@@ -23,6 +15,38 @@ It requires a WebGL enabled browser.
 .. image:: https://github.com/pmneila/jsexp/raw/master/grayscott/grayscott.png
    :align: center
    :target: http://pmneila.github.com/jsexp/grayscott
+
+Mapped
+------
+Using texture chanel as F/K parameter
+
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/mapped.PNG
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/pattern.png
+
+Grids
+------
+Distribute F/K parameters over x/y axes
+
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/grid1.PNG
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/grid2.PNG
+
+Hilbert fill
+------------
+Fill screen with sequence of images
+
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/hilbert.PNG
+
+Marching cubes
+--------------
+3D model building with marching cubes
+
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/marching-cubes.PNG
+
+WEBM video expoter
+------------------
+Records an `video <https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/video.webm>`_ in webm format for downloading
+
+
 
 Screenshots
 -----------
