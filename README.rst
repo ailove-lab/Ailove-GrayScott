@@ -16,16 +16,16 @@ It requires a WebGL enabled browser.
    :align: center
    :target: http://pmneila.github.com/jsexp/grayscott
 
-Mapped
-------
-Using texture chanel as F/K parameter
+Texture mapping
+---------------
+Using an texture chanels as F/K parameter
 
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/mapped.PNG
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/pattern.png
 
-Interacive maps
------
-Distribute F/K parameters over x/y axes
+Tiled FK Maps
+-------------
+Building the distribution of F/K parameters over x/y axes
 
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/grid1.PNG
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/grid2.PNG
@@ -39,21 +39,19 @@ Distribute F/K parameters over x/y axes
    
 Hilbert fill
 ------------
-Fill screen with sequence of images
+Fill the screen with an image sequence
 
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/hilbert.PNG
 
 Marching cubes
 --------------
-3D model building with marching cubes
+3D model building with the marching cubes
 
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/marching-cubes.PNG
 
 WEBM video expoter
 ------------------
-Records an `video <https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/video.webm>`_ in webm format for downloading
-
-
+Tool for `video <https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/video.webm>`_  recording
 
 Screenshots
 -----------
