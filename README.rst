@@ -23,13 +23,20 @@ Using texture chanel as F/K parameter
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/mapped.PNG
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/pattern.png
 
-Grids
-------
+Interacive maps
+-----
 Distribute F/K parameters over x/y axes
 
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/grid1.PNG
 .. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/screenshoots/grid2.PNG
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/map-3_s.png
+   :target: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/map-3.png
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/map-1_s.jpg
+   :target: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/map-1.jpg
+.. image:: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/map-2_s.png
+   :target: https://raw.github.com/ailove-lab/Ailove-GrayScott/master/map-2.png
 
+   
 Hilbert fill
 ------------
 Fill screen with sequence of images
