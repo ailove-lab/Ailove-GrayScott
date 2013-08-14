@@ -113,12 +113,12 @@ init = function()
     mCamera.position.z = 100;
     mScene.add(mCamera);
     
-    mTexture1 = new THREE.WebGLRenderTarget(canvasWidth/2, canvasHeight/2,
+    mTexture1 = new THREE.WebGLRenderTarget(canvasWidth, canvasHeight,
                         {minFilter: THREE.LinearFilter,
                          magFilter: THREE.LinearFilter,
                          format: THREE.RGBFormat,
                          type: THREE.FloatType});
-    mTexture2 = new THREE.WebGLRenderTarget(canvasWidth/2, canvasHeight/2,
+    mTexture2 = new THREE.WebGLRenderTarget(canvasWidth, canvasHeight,
                         {minFilter: THREE.LinearFilter,
                          magFilter: THREE.LinearFilter,
                          format: THREE.RGBFormat,
@@ -130,8 +130,8 @@ init = function()
     mTexture2.wrapT = THREE.RepeatWrapping;
     
     mUniforms = {
-        screenWidth:  {type: "f" , value: canvasWidth/2},
-        screenHeight: {type: "f" , value: canvasHeight/2},
+        screenWidth:  {type: "f" , value: canvasWidth},
+        screenHeight: {type: "f" , value: canvasHeight},
         tSource:      {type: "t" , value: mTexture1},
         tPattern:     {type: "t" , value: mPattern },
         delta:        {type: "f" , value: 1.0},
